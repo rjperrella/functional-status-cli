@@ -1,4 +1,4 @@
-name: Build IG
+name: Build IG Fixed
 
 on: [push]
 
